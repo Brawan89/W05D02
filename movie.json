@@ -1,0 +1,1 @@
+[{"id":1,"nameMovie":"first movie","isFav":true,"isDel":false},{"id":2,"nameMovie":"second movie","isFav":false,"isDel":false},{"id":3,"nameMovie":"third movie","isFav":false,"isDel":true},{"id":4,"nameMovie":"fourth movie","isFav":true,"isDel":true},{"id":5,"nameMovie":"df movie","isFav":true,"isDel":false},{"id":6,"nameMovie":"g movie","isFav":false,"isDel":false}]
